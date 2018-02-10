@@ -71,6 +71,8 @@ $ caer-ctl (command-line run-time control program, optional) <br />
 Please use our GitHub bug tracker to report issues and bugs, or
 our Google Groups mailing list for discussions and announcements.
 
+USER GUIDE: https://inilabs.com/support/software/caer/
+
 BUG TRACKER: https://github.com/inilabs/caer/issues/
 
 MAILING LIST: https://groups.google.com/d/forum/caer-users/
